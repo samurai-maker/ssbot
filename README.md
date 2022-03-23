@@ -1,4 +1,4 @@
-# [Screenshotit_bot](https://tx.me/screenshotit_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/samurai-maker/ssbot)
 
 > Telegram Bot For Screenshot Generation.
 

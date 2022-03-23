@@ -8,8 +8,9 @@ from ..screenshotbot import ScreenShotBot
 async def start(c, m):
 
     await m.reply_text(
-        text=f"<b>Hi  {m.from_user.mention}.\n\nI'm Screenshot Generator Bot. I can provide screenshots from "
-        "your video files without downloading the entire file (almost instantly). For more details check /help.</b>",
+        text=f"<b>Hi  {m.from_user.mention}.\n\nI'm Screenshot Generator Bot. I can provide screenshots from </b> "
+        "<b>your video files without downloading the entire file (almost instantly). For more details check /help.</b>
+        "<i>visit our chat groups 👇",
         quote=True,
         reply_markup=InlineKeyboardMarkup(
            [
